@@ -1,0 +1,31 @@
+.link{
+    text-decoration: none;
+
+}
+.link.link::active{
+    color: #6c8193;
+    text-decoration:none ;
+}
+
+body{
+    background-color: #c5c6d0;
+
+}
+
+footer {
+    background-color: black;
+    font-size: small;
+  }
+
+  a{
+      text-decoration: none;
+      color: #6c8193;
+  }
+
+  a:active{
+    color: grey;
+}
+
+a:hover{
+  color: grey;
+}

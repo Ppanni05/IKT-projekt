@@ -1,0 +1,31 @@
+a{
+    text-decoration-line: none;
+    color: black;}
+
+a :link{
+        color: #373737;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+body{
+    background-color: #c5c6d0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+footer {
+    background-color: black;
+    font-size: small;
+  }
+
+  a:active{
+    color: grey;
+}
+
+a:hover{
+  color: grey;
+}

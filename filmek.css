@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #c5c6d0;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+}
+footer {
+    background-color: black;
+    font-size: small;
+  }
+
+  a{
+      text-decoration: none;
+      color: black;
+      font-size: larger;
+      padding: 15px;
+  }
+
+  img{
+      position: cover;
+      width: auto;
+  }
+
+  .col{
+      margin: 25px;
+  }
+
+  a:active{
+      color: grey;
+  }
+
+  a:hover{
+    color: grey;
+}
